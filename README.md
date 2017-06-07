@@ -1,3 +1,3 @@
 # cansoftware
-This is project for learn how to combining cmake , softdesign, c++, google c++ sytle in a unity 
+This is project for learning how to combine cmake , softdesign, c++, google c++ sytle in a unity 
 
