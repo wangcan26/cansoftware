@@ -1,3 +1,3 @@
-# ProjectCan
+# cansoftware
+This is project for learn how to combining cmake , softdesign, c++, google c++ sytle in a unity 
 
-This is a Project for learn how to combine google c++ style, software design , cmake into a unity
